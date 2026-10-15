@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Whiteout Private Server</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#0b1018;color:#f4f7fb;font-family:Arial,sans-serif}
+header{padding:55px 20px;text-align:center;background:linear-gradient(135deg,#101d30,#263c50,#10151e);border-bottom:2px solid #64d8ff}
+header h1{font-size:clamp(30px,7vw,52px);margin:0 0 12px}
+header p{color:#c8d5e5}
+main{max-width:900px;margin:auto;padding:22px}
+section{background:#151e2b;border:1px solid #2b3b50;border-radius:14px;padding:22px;margin:20px 0}
+h2{color:#72d9ff;margin-top:0}
+.btn{display:inline-block;background:#55c9f4;color:#06111c;padding:13px 20px;border-radius:8px;text-decoration:none;font-weight:bold;margin:8px 5px 0 0}
+.muted{color:#b9c5d4;line-height:1.7}
+footer{text-align:center;color:#9baabd;padding:28px}
+</style>
+</head>
+<body>
+<header>
+<h1>WHITEOUT</h1>
+<p>PRIVATE SERVER COMMUNITY</p>
+<p>Informações, novidades e comunidade do servidor.</p>
+</header>
+<main>
+<section>
+<h2>Sobre o servidor</h2>
+<p class="muted">Bem-vindo à comunidade Whiteout Private Server. Aqui você encontrará informações sobre o projeto e orientações para acessar o jogo.</p>
+<p class="muted">Status: informações em atualização.</p>
+</section>
+<section>
+<h2>Baixar o jogo</h2>
+<p class="muted">O link oficial de download será adicionado aqui quando estiver disponível.</p>
+<a class="btn" href="https://github.com/" target="_blank" rel="noopener">Download em breve</a>
+</section>
+<section>
+<h2>Como entrar no jogo</h2>
+<p class="muted">1. Confira os requisitos e as instruções fornecidas pela equipe do servidor.</p>
+<p class="muted">2. Baixe o aplicativo de uma fonte confiável.</p>
+<p class="muted">3. Siga as instruções específicas desse servidor.</p>
+<p class="muted">Os dados de conexão ainda precisam ser confirmados.</p>
+</section>
+<section>
+<h2>Imagens do jogo</h2>
+<p class="muted">As imagens do projeto serão adicionadas aqui.</p>
+</section>
+<section>
+<h2>Contato e comunidade</h2>
+<p class="muted">O link da comunidade será publicado aqui quando estiver pronto.</p>
+</section>
+</main>
+<footer>Whiteout Private Server · Projeto comunitário independente</footer>
+</body>
+</html>
